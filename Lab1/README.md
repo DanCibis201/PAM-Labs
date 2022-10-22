@@ -14,4 +14,4 @@ To use UI components to achieve the following conditions:
 To create a push notification on the device screen that will be handled over 10s.
 Use the device's internal browser to initiate a Google search according to the keyword entered in the TextBox.
 To run the front and/or rear camera work event when selecting one of the 2 proposed radio buttons.
-To process the event of capturing the photo taken with one of the two cameras, and to display in another Activity
+To process the event of capturing the photo taken with one of the two cameras, and to display in another activity.
