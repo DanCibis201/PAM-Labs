@@ -5,4 +5,5 @@ Mobile Application Development
 - Flutter (Dart)
 
 Lab 1 - Java
+
 Lab 2 - Flutter
