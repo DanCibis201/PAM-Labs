@@ -1,6 +1,6 @@
-LAB1 App made in Android Studio (Java).
+# LAB1 App made in Android Studio (Java).
 
-Purpose:
+# Purpose:
 To present an application running on a device or emulator, which will contain on its interface, the following elements:
 
 - 4 buttons (which will execute the conditions below)
