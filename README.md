@@ -2,7 +2,6 @@
 
 Languages used:
 
-- Android Studio
 - Java 
 - Flutter (Dart)
 
