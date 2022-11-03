@@ -1,4 +1,4 @@
-# lab2_code
+# Lab 2 - Variant 2
 
 A new Flutter project.
 
@@ -6,7 +6,7 @@ A new Flutter project.
 
 This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+Make a mobile application that will calculate the number of words containing the letter "A" in a text entered by the user.
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
