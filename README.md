@@ -21,9 +21,13 @@ To create a push notification on the device screen that will be handled over 10s
  ## Lab 2 - Flutter
 Make a mobile application that will calculate the number of words containing the letter "A" in a text entered by the user.
 
-Getting Started
+## Getting Started
+
 This project is a starting point for a Flutter application.
 
-Lab: Write your first Flutter app
-Cookbook: Useful Flutter samples
-For help getting started with Flutter development, view the online documentation, which offers tutorials, samples, guidance on mobile development, and a full API reference.
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
