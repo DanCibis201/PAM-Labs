@@ -24,7 +24,9 @@ Make a mobile application that will calculate the number of words containing the
 ## Lab 3 - Flutter
 Advanced use of UI components. Animations. Realization of the app according to the defined design.
 
-Create a mobile application: Calculator with the simplest operations.
+Create a mobile application: Calculator with the simplest operations. 
+The design from the given link will be used: https://www.figma.com/file/wgmhjxiTdLH2TWdJ0Nxh29/Vasile-Barbaro%C8%99---PAM-LAB2?node-id=1%3A3
+
 
 ### Getting Started
 
