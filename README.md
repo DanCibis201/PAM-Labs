@@ -26,7 +26,7 @@ Advanced use of UI components. Animations. Realization of the app according to t
 
 Create a mobile application: Calculator with the simplest operations.
 
-## Getting Started
+### Getting Started
 
 This project is a starting point for a Flutter application.
 
