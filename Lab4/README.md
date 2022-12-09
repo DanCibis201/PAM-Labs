@@ -4,7 +4,7 @@ Online Shop - which represents a screen with the list of products available in a
 
 Conditions: 
 Using the json file: https://drive.google.com/file/d/1hHrVZ46ltC5cl0H0yayaoWdRNOykptsR/view?usp=sharing
-EDIT: I edited the 
+EDIT: I edited the .json file so that images will load when I'll run the app in both emulator and browser. Also the images were changed to others, to claim it as my personal app.
 
 Design: 
 https://www.figma.com/file/vR3YnmX5hNTElDSnMqi5aD/PAM---Laborator-4?node-id=0%3A1
