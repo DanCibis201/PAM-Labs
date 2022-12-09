@@ -1,0 +1,82 @@
+{
+  "categories": [
+    {
+      "title": "Man",
+      "icon": "https://i.postimg.cc/KzwjwzVn/man.png"
+    },
+    {
+      "title": "Women",
+      "icon": "https://i.postimg.cc/BnYZLbg2/women.png"
+    },
+    {
+      "title": "Devices",
+      "icon": "https://i.postimg.cc/63VSqX4V/devices.png"
+    },
+    {
+      "title": "Gadgets",
+      "icon": "https://i.postimg.cc/hjhzPS56/headphones.png"
+    },
+    {
+      "title": "Gaming",
+      "icon": "https://i.postimg.cc/kMRB8Q6w/gaming.png"
+    }
+  ],
+  "products": [
+    {
+      "cover": "https://i.ibb.co/KLVXh0P/Beo-Speaker-2x.png",
+      "title": "BeoPlay Speaker",
+      "sub_title": "Bang of Olufsen",
+      "price": 755,
+      "currency": "$"
+    },
+    {
+      "cover": "https://i.ibb.co/WyPSMKw/Nike-Dri-Fit-2x.png",
+      "title": "Nike Dri-FIT",
+      "sub_title": "Long-Sleeve",
+      "price": 215,
+      "currency": "$"
+    },
+    {
+      "cover": "https://i.ibb.co/C06sNnK/Nike-Air-Force-2x.png",
+      "title": "Nike Air Force",
+      "sub_title": "High Top",
+      "price": 385,
+      "currency": "$"
+    },
+    {
+      "cover": "https://i.ibb.co/zX7GzTr/Aonic50-2x.png",
+      "title": "Aonic 50",
+      "sub_title": "Wireless Noise",
+      "price": 450,
+      "currency": "$"
+    },
+    {
+      "cover": "https://i.ibb.co/87Yxbh6/Viper-Mini-2x.png",
+      "title": "Viper Mini",
+      "sub_title": "Gaming Mouse",
+      "price": 578,
+      "currency": "$"
+    },
+    {
+      "cover": "https://i.ibb.co/P5vtCns/Adidas-Sneakers-2x.png",
+      "title": "Adidas Sneakers",
+      "sub_title": "Animal Print",
+      "price": 396,
+      "currency": "$"
+    },
+    {
+      "cover": "https://i.ibb.co/K5t2x8v/White-Tshirt-2x.png",
+      "title": "White T-Shirt",
+      "sub_title": "Short Sleeve",
+      "price": 124,
+      "currency": "$"
+    },
+    {
+      "cover": "https://i.ibb.co/Ydn4wS3/Mini-Dress-2x.png",
+      "title": "Mini Dress",
+      "sub_title": "Cowl Neck",
+      "price": 427,
+      "currency": "$"
+    }
+  ]
+}
