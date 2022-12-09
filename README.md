@@ -48,3 +48,15 @@ Using the json file: https://drive.google.com/file/d/1hHrVZ46ltC5cl0H0yayaoWdRNO
 
 Design: 
 https://www.figma.com/file/vR3YnmX5hNTElDSnMqi5aD/PAM---Laborator-4?node-id=0%3A1
+
+
+### Getting Started
+
+This project is a starting point for a Flutter application.
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
