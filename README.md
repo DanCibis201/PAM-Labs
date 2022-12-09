@@ -27,18 +27,6 @@ Advanced use of UI components. Animations. Realization of the app according to t
 Create a mobile application: Calculator with the simplest operations. 
 The design from the given link will be used: https://www.figma.com/file/wgmhjxiTdLH2TWdJ0Nxh29/Vasile-Barbaro%C8%99---PAM-LAB2?node-id=1%3A3
 
-
-### Getting Started
-
-This project is a starting point for a Flutter application.
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-
 ## Lab 4 - Flutter
 Objectives: 
 Online Shop - which represents a screen with the list of products available in an online store. The data will be loaded from a .json file stored in the application. To use a package for State Management.
